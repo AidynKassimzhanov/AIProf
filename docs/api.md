@@ -90,13 +90,12 @@ Submits user answers, processes them to generate AI profile and recommended prof
 {
   "userId": "generated-user-id",
   "aiProfile": {
-    "interests": {"programming": 4.5, "logic": 4.0},
-    "abilities": {"analysis": 3.8},
-    "personality": {"persistence": 4.2},
-    "motivation": {"selfDevelopment": 4.1}
+    "interests": {"programming": 4.5, "design": 3.2},
+    "abilities": {"logic": 4.0, "analysis": 3.8},
+    "personality": {"teamwork": 4.1, "communication": 3.9},
+    "motivation": {"selfDevelopment": 4.2, "persistence": 4.0}
   },
-  "recommendedProfessions": ["p1", "p2"],
-  "interpretation": "Текст интерпретации от LLM"
+  "recommendedProfessions": ["p1", "p2", "p3", "p4", "p5"]
 }
 ```
 
