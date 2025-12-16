@@ -1,0 +1,267 @@
+[
+  {
+    "id": "p1",
+    "name": "Программист",
+    "college": "IT College",
+    "aiProfile": {
+      "it_interest": 5,
+      "technical_thinking": 4,
+      "numerical": 4,
+      "analysis": 3,
+      "creativity": 3
+    }
+  },
+  {
+    "id": "p2",
+    "name": "Веб-разработчик",
+    "college": "IT College",
+    "aiProfile": {
+      "it_interest": 5,
+      "technical_thinking": 4,
+      "creativity": 4,
+      "analysis": 3
+    }
+  },
+  {
+    "id": "p3",
+    "name": "Data Analyst",
+    "college": "IT College",
+    "aiProfile": {
+      "it_interest": 4,
+      "numerical": 5,
+      "analysis": 5,
+      "information_processing": 4
+    }
+  },
+  {
+    "id": "p4",
+    "name": "Геодезист",
+    "college": "Geodesy College",
+    "aiProfile": {
+      "geoscience": 5,
+      "technical_thinking": 4,
+      "accuracy": 5,
+      "information_processing": 3,
+      "practical_orientation": 4
+    }
+  },
+  {
+    "id": "p5",
+    "name": "Картограф",
+    "college": "Geodesy College",
+    "aiProfile": {
+      "geoscience": 5,
+      "accuracy": 5,
+      "analysis": 4,
+      "technical_thinking": 3
+    }
+  },
+  {
+    "id": "p6",
+    "name": "Строитель",
+    "college": "Construction College",
+    "aiProfile": {
+      "construction": 5,
+      "technical_thinking": 4,
+      "accuracy": 4,
+      "teamwork": 4,
+      "practical_orientation": 5
+    }
+  },
+  {
+    "id": "p7",
+    "name": "Проектировщик",
+    "college": "Construction College",
+    "aiProfile": {
+      "construction": 5,
+      "technical_thinking": 5,
+      "accuracy": 5,
+      "analysis": 4
+    }
+  },
+  {
+    "id": "p8",
+    "name": "Менеджер гостиницы",
+    "college": "Service College",
+    "aiProfile": {
+      "service_industry": 5,
+      "teamwork": 4,
+      "social": 4,
+      "practical_orientation": 4,
+      "accuracy": 3
+    }
+  },
+  {
+    "id": "p9",
+    "name": "Официант",
+    "college": "Service College",
+    "aiProfile": {
+      "service_industry": 5,
+      "teamwork": 3,
+      "social": 4,
+      "practical_orientation": 3
+    }
+  },
+  {
+    "id": "p10",
+    "name": "Водитель",
+    "college": "Transport College",
+    "aiProfile": {
+      "transport": 5,
+      "decision_making": 4,
+      "stress_resistance": 5,
+      "technical_thinking": 3,
+      "practical_orientation": 5
+    }
+  },
+  {
+    "id": "p11",
+    "name": "Логист",
+    "college": "Transport College",
+    "aiProfile": {
+      "transport": 5,
+      "analysis": 4,
+      "decision_making": 4,
+      "information_processing": 4
+    }
+  },
+  {
+    "id": "p12",
+    "name": "Электрик",
+    "college": "Electrical College",
+    "aiProfile": {
+      "engineering_interest": 5,
+      "technical_thinking": 5,
+      "accuracy": 4,
+      "practical_orientation": 4,
+      "analysis": 3
+    }
+  },
+  {
+    "id": "p13",
+    "name": "Инженер-электрик",
+    "college": "Electrical College",
+    "aiProfile": {
+      "engineering_interest": 5,
+      "technical_thinking": 5,
+      "analysis": 4,
+      "accuracy": 4
+    }
+  },
+  {
+    "id": "p14",
+    "name": "Бухгалтер",
+    "college": "Finance College",
+    "aiProfile": {
+      "finance_interest": 5,
+      "numerical": 5,
+      "accuracy": 5,
+      "analysis": 4,
+      "decision_making": 3
+    }
+  },
+  {
+    "id": "p15",
+    "name": "Финансовый аналитик",
+    "college": "Finance College",
+    "aiProfile": {
+      "finance_interest": 5,
+      "numerical": 5,
+      "analysis": 5,
+      "information_processing": 4
+    }
+  },
+  {
+    "id": "p16",
+    "name": "Юрист",
+    "college": "Law College",
+    "aiProfile": {
+      "legal_interest": 5,
+      "analysis": 5,
+      "decision_making": 4,
+      "accuracy": 4,
+      "conventional": 4
+    }
+  },
+  {
+    "id": "p17",
+    "name": "Адвокат",
+    "college": "Law College",
+    "aiProfile": {
+      "legal_interest": 5,
+      "decision_making": 5,
+      "analysis": 4,
+      "stress_resistance": 4
+    }
+  },
+  {
+    "id": "p18",
+    "name": "Медсестра",
+    "college": "Medical College",
+    "aiProfile": {
+      "medical_interest": 5,
+      "medical_responsibility": 5,
+      "accuracy": 4,
+      "stress_resistance": 4,
+      "social_value": 5
+    }
+  },
+  {
+    "id": "p19",
+    "name": "Врач",
+    "college": "Medical College",
+    "aiProfile": {
+      "medical_interest": 5,
+      "medical_responsibility": 5,
+      "accuracy": 5,
+      "stress_resistance": 5,
+      "social_value": 5
+    }
+  },
+  {
+    "id": "p20",
+    "name": "Политехник",
+    "college": "Polytechnic College",
+    "aiProfile": {
+      "technical_thinking": 5,
+      "engineering_interest": 5,
+      "analysis": 4,
+      "creativity": 4,
+      "practical_orientation": 5
+    }
+  },
+  {
+    "id": "p21",
+    "name": "Геолог",
+    "college": "Geoscience College",
+    "aiProfile": {
+      "geoscience": 5,
+      "stress_resistance": 4,
+      "teamwork": 4,
+      "practical_orientation": 4
+    }
+  },
+  {
+    "id": "p22",
+    "name": "Тренер",
+    "college": "Sports College",
+    "aiProfile": {
+      "sports_interest": 5,
+      "stress_resistance": 4,
+      "teamwork": 4,
+      "practical_orientation": 4
+    }
+  },
+  {
+    "id": "p23",
+    "name": "Учитель",
+    "college": "Pedagogy College",
+    "aiProfile": {
+      "pedagogy": 5,
+      "social": 5,
+      "communication": 5,
+      "patience": 5,
+      "creativity": 4
+    }
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "code": "Q_IT_01",
+    "text": "Мне интересно разбираться, как устроены программы и сайты",
+    "type": "scale",
+    "aiTags": ["programming", "logic"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_IT_02",
+    "text": "Мне нравится писать код и видеть результат своей работы",
+    "type": "scale",
+    "aiTags": ["programming", "persistence"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_IT_03",
+    "text": "Я получаю удовольствие от поиска ошибок в коде",
+    "type": "scale",
+    "aiTags": ["debugging", "analysis"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_IT_04",
+    "text": "Мне интересно создавать сайты или приложения",
+    "type": "scale",
+    "aiTags": ["programming", "design"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_ANALYTICS_01",
+    "text": "Мне нравится анализировать данные и находить закономерности",
+    "type": "scale",
+    "aiTags": ["analysis", "data"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_ANALYTICS_02",
+    "text": "Я легко нахожу логические решения в сложных ситуациях",
+    "type": "scale",
+    "aiTags": ["logic", "problemSolving"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_ANALYTICS_03",
+    "text": "Мне нравится систематизировать информацию",
+    "type": "scale",
+    "aiTags": ["organization", "analysis"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_CREAT_01",
+    "text": "Мне нравится придумывать дизайн или визуальные решения",
+    "type": "scale",
+    "aiTags": ["design", "creativity"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_CREAT_02",
+    "text": "Я люблю работать над необычными и креативными задачами",
+    "type": "scale",
+    "aiTags": ["creativity", "innovation"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_CREAT_03",
+    "text": "Мне интересно создавать визуальный контент и иллюстрации",
+    "type": "scale",
+    "aiTags": ["design", "art"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_COMM_01",
+    "text": "Мне легко объяснять сложные вещи другим людям",
+    "type": "scale",
+    "aiTags": ["communication", "teaching"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_COMM_02",
+    "text": "Я получаю удовольствие от работы в команде",
+    "type": "scale",
+    "aiTags": ["teamwork", "communication"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_COMM_03",
+    "text": "Мне важно уметь вести переговоры и убеждать людей",
+    "type": "scale",
+    "aiTags": ["communication", "persuasion"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_PERSONAL_01",
+    "text": "Я довожу начатое дело до конца, даже если сложно",
+    "type": "scale",
+    "aiTags": ["persistence", "responsibility"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_PERSONAL_02",
+    "text": "Мне важно постоянно развиваться и учиться новому",
+    "type": "scale",
+    "aiTags": ["selfDevelopment", "curiosity"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_PERSONAL_03",
+    "text": "Я умею планировать своё время и задачи",
+    "type": "scale",
+    "aiTags": ["organization", "responsibility"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_IT_05",
+    "text": "Какая деятельность вам ближе?",
+    "type": "single",
+    "aiTags": ["programming", "design", "analysis"],
+    "weight": 1,
+    "stage": "basic",
+    "active": true
+  },
+  {
+    "code": "Q_COMM_04",
+    "text": "Выберите навыки, которые вам интересны",
+    "type": "multi",
+    "aiTags": ["communication", "teamwork", "teaching", "persuasion"],
+    "weight": 1,
+    "stage": "basic",
+    "active": true
+  },
+  {
+    "code": "Q_CREAT_04",
+    "text": "Выберите направления творчества, которые вам нравятся",
+    "type": "multi",
+    "aiTags": ["design", "art", "creativity", "innovation"],
+    "weight": 1,
+    "stage": "basic",
+    "active": true
+  },
+  {
+    "code": "Q_ANALYTICS_04",
+    "text": "Какие виды логических задач вам интересны?",
+    "type": "multi",
+    "aiTags": ["logic", "analysis", "problemSolving", "data"],
+    "weight": 1,
+    "stage": "basic",
+    "active": true
+  },
+  {
+    "code": "Q_IT_06",
+    "text": "Мне нравится работать с компьютером и техникой",
+    "type": "scale",
+    "aiTags": ["technology", "programming"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_PERSONAL_04",
+    "text": "Я легко приспосабливаюсь к новым условиям",
+    "type": "scale",
+    "aiTags": ["adaptability", "curiosity"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_COMM_05",
+    "text": "Мне нравится участвовать в обсуждениях и совещаниях",
+    "type": "scale",
+    "aiTags": ["communication", "teamwork"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_CREAT_05",
+    "text": "Мне нравится придумывать новые идеи и решения",
+    "type": "scale",
+    "aiTags": ["creativity", "innovation"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_ANALYTICS_05",
+    "text": "Я люблю анализировать информацию и делать выводы",
+    "type": "scale",
+    "aiTags": ["analysis", "logic"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_IT_07",
+    "text": "Мне интересно изучать новые технологии и инструменты",
+    "type": "scale",
+    "aiTags": ["technology", "curiosity"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_PERSONAL_05",
+    "text": "Я люблю работать самостоятельно и принимать решения",
+    "type": "scale",
+    "aiTags": ["responsibility", "independence"],
+    "weight": 1,
+    "stage": "core",
+    "active": true
+  },
+  {
+    "code": "Q_IT_08",
+    "text": "Какая деятельность вам ближе: работа с кодом, данными или дизайном?",
+    "type": "single",
+    "aiTags": ["programming", "data", "design"],
+    "weight": 1,
+    "stage": "basic",
+    "active": true
+  },
+  {
+    "code": "Q_ADAPT_01",
+    "text": "Вам нравится работать в команде над творческими проектами?",
+    "type": "scale",
+    "aiTags": ["teamwork", "creativity"],
+    "weight": 1,
+    "stage": "adaptive",
+    "active": true
+  },
+  {
+    "code": "Q_ADAPT_02",
+    "text": "Вы предпочитаете решать задачи логически или интуитивно?",
+    "type": "scale",
+    "aiTags": ["logic", "intuition"],
+    "weight": 1,
+    "stage": "adaptive",
+    "active": true
+  },
+  {
+    "code": "Q_ADAPT_03",
+    "text": "Вам интересно изучать новые технологии?",
+    "type": "scale",
+    "aiTags": ["technology", "curiosity"],
+    "weight": 1,
+    "stage": "adaptive",
+    "active": true
+  },
+  {
+    "code": "Q_ADAPT_04",
+    "text": "Вы любите помогать другим людям?",
+    "type": "scale",
+    "aiTags": ["empathy", "communication"],
+    "weight": 1,
+    "stage": "adaptive",
+    "active": true
+  },
+  {
+    "code": "Q_ADAPT_05",
+    "text": "Вам нравится планировать и организовывать работу?",
+    "type": "scale",
+    "aiTags": ["planning", "organization"],
+    "weight": 1,
+    "stage": "adaptive",
+    "active": true
+  }
+]
