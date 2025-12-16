@@ -187,7 +187,36 @@ All errors return a JSON object:
 ## Rate Limiting
 Not implemented yet. Consider adding for production.
 
-## Future Enhancements
-- Adaptive question selection based on previous answers
-- Pagination for large datasets
-- Caching for frequently accessed data
+### 6. Get Adaptive Questions
+**POST** `/get-adaptive-questions`
+
+Analyzes initial answers and generates follow-up questions to clarify interests/abilities.
+
+**Request Body:**
+```json
+{
+  "answers": {
+    "Q_IT_01": 4,
+    "Q_IT_02": 5
+  }
+}
+```
+
+**Response:**
+```json
+[
+  {
+    "id": "Q_ADAPT_01",
+    "text": "Generated question based on analysis",
+    "type": "scale",
+    "aiTags": ["creativity"],
+    "weight": 1,
+    "stage": "adaptive",
+    "active": true
+  }
+]
+```
+
+**Status Codes:**
+- 200: Success
+- 500: Server error
